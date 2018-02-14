@@ -6,12 +6,12 @@ Olá, seja bem-vindo ao teste de front-end.
 <hr/>
 
 ##### Dicas.:
-> Semántica 
-> Organização 
+> Semántica e Organização 
 
 #### Teste
 > Temos uma tela que precisa ser transformada em HTML 
-> https://invis.io/8ZFREELMFJD#/278291693_totvs-Landing-Page-Ebook
+
+https://invis.io/8ZFREELMFJD#/278291693_totvs-Landing-Page-Ebook
 
 Use o framework que achar melhor ou não use nenhum se preferir.
 

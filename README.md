@@ -15,6 +15,6 @@ https://invis.io/8ZFREELMFJD#/278291693_totvs-Landing-Page-Ebook
 
 Use o framework que achar melhor ou não use nenhum se preferir.
 
-Após finalizar o teste, crie uma branch neste repositório com seu nome e envie seu teste para lá.
+Após finalizar o teste, crie um pull request neste repositório com seu nome.
 
 Boa sorte! :)

@@ -1,19 +1,26 @@
-## Front-end 😁
+## Back-end 🙂
 
-Olá, seja bem-vindo ao teste de front-end.
+Olá, seja bem-vindo ao teste de back-end.
 
 > Este é um teste com o intuito de avaliar os conhecimentos do candidato.
 <hr/>
 
 ##### Dicas.:
-> Semántica e Organização 
+> Padrões e Organização 
 
 #### Teste
-> Temos uma tela que precisa ser transformada em HTML 
+> Crie um CRUD de Produtos
 
-https://invis.io/8ZFREELMFJD#/278291693_totvs-Landing-Page-Ebook
+#### Frameworks
+- Laravel
+- Lumen
+- Kohana 
+- Codeigniter
+- Symfony
+- Zend
+- Phalcon
 
-Use o framework que achar melhor ou não use nenhum se preferir.
+Use um dos frameworks listados ou crie do <strong> zero </strong> de preferir.
 
 Após finalizar o teste, crie um pull request neste repositório com seu nome.
 
